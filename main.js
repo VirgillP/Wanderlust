@@ -1,11 +1,11 @@
 // Foursquare API Info
-const clientId = 'VGGBM0TPN0TRV55CCE50W3LX1HJNO2UQVBKVXZ5W5JHPO0YL';
-const clientSecret = 'BCXSQGTPFEHVXDJ4UN3T2FPV4NJRZUCQQI2ST3NULSDBMRSU';
+const clientId = 'YOUR FOURSQUARE CLIENT ID';
+const clientSecret = 'YOUR FOURSQUARE CLIENTSECRET';
 const url = 'https://api.foursquare.com/v2/venues/explore?near=';
 
 // APIXU Info
-const apiKey = '13ea018f40964133a87160210181909';
-const forecastUrl = 'https://api.apixu.com/v1/forecast.json?key=13ea018f40964133a87160210181909&q=';
+const apiKey = 'YOUR APIXU apiKey';
+const forecastUrl = 'https://api.apixu.com/v1/forecast.json?key=YOUR APIXU KEY&q=';
 
 // Page Elements
 const $input = $('#city');
